@@ -37,7 +37,6 @@ const AnimatedFeatures = () => {
     const triggerConfig = {
       trigger: ".mosaic-main-container",
       scroller: "body",
-      markers: true,
       start: "0%",
       end: "-100%",
       scrub: true,
