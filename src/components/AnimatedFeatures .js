@@ -69,7 +69,6 @@ const AnimatedFeatures = () => {
       start: "top center",
       end: "bottom center",
       scrub: 3,
-      markers: true,
     };
 
     gsap.from(".mosaic1", {
